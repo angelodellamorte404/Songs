@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name":"Buzzcut",
+        "desc":"A buzz cut, or wiffle cut, is a term that is used to refer to any of a variety of short hairstyles, especially where the length of hair is the same on all parts of the head. Rising to prominence initially with the advent of manual hair clippers, buzz cuts became increasingly popular in places where strict grooming conventions applied. In several nations, buzz cuts are often given to new recruits in the armed forces. However, buzz cuts are also used for stylistic reasons.",
+        "poster":"https://ik.imagekit.io/qvmtdeqhn/Handma/Buzzcut_Ci5pskX-0.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589388?raw=true",
+        "category":"Haircut"
+        
+    },
+    {
+        "id": 2,
+        "name": "Two Block",
+        "desc": "A bowl cut-like masculine haircut associated with some East Asian countries including South Korea and Japan.",
+        "poster": "https://ik.imagekit.io/qvmtdeqhn/Handma/two_block_vWj2aaI8gl.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589370?raw=true",
+        "category": "Haircut"
+    },
+    {
+        "id": 3,
+        "name": "Edgar Cut",
+        "desc": "An Edgar haircut is a Mexican take on a Caesar hair cut. Originally sported by Latina boys, it has soon become incredibly popular worldwide. It is one of those short haircuts for men that involve more hair in the front with the top being shortly trimmed while the sides and the back are faded, tapered or undercut",
+        "poster": "https://ik.imagekit.io/qvmtdeqhn/Handma/edgar_a9FBDeks50.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589361?raw=true",
+        "category": "Haircut"
+    },
+    {
+        "id": 4,
+        "name": "Taper Fade",
+        "desc": "A taper is when your hair gradually changes from long to short from the top of your head down to your hairline. A taper only appears in two areas—your sideburns and your neckline. A fade is a shorter version of a taper.",
+        "poster": "https://ik.imagekit.io/qvmtdeqhn/Handma/taper_fade_vE50_Fhmi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589343?raw=true",
+        "category": "Haircut"
+    },
+    {
+        "id": 5,
+        "name": "Pompadour",
+        "desc": "a man's style of hairdressing in which the hair is combed into a high mound in front",
+        "poster": "https://ik.imagekit.io/qvmtdeqhn/Handma/pompadour_5HAthLV81.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589338?raw=true",
+        "category": "Haircut"
+    },
+    {
+        "id": 6,
+        "name": "Slick Back",
+        "desc": "A hairstyle of men where the hair is combed back in a slick manner usually with hair gel which was popular back in the 50's rocker era.",
+        "poster": "https://ik.imagekit.io/qvmtdeqhn/Handma/slick_bacl_m7YTDNL_F7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589345?raw=true",
+        "category": "Haircut"
+    },
+    {
+        "id": 7,
+        "name": "French Crop",
+        "desc": "The French Crop is a popular hairstyle that features long hair at the top, a spiky fringe, and shorter sides and back (usually Faded). It's classy, versatile, easy to maintain, and comes with numerous variations.",
+        "poster": "https://ik.imagekit.io/qvmtdeqhn/Handma/french_crop_-HK0Km_GT.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589273?raw=true",
+        "category": "Haircut"
+    },
+    {
+        "id": 8,
+        "name": "Tight Crop",
+        "desc": "The high and tight is a military variant of the crew cut. It is a very short hairstyle, characterized by the back and sides of the head being shaved to the skin and the option for the top to be blended or faded into slightly longer hair. It is most commonly worn by men in the U.S. armed forces.",
+        "poster": "https://ik.imagekit.io/qvmtdeqhn/Handma/tight_crop_v5-NiScix.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1666705589263?raw=true",
+        "category": "Haircut"
+    }
+]
